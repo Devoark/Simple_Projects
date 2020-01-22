@@ -1,0 +1,10 @@
+# Don't track content of these folders/files..
+
+
+*.exe
+*.com
+*.class
+*.dll
+*.o
+*.so
+.vscode/settings.json
